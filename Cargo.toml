@@ -1,0 +1,7 @@
+[package]
+name = "subxt-type-duplication"
+version = "0.35.3"
+edition = "2021"
+
+[dependencies]
+subxt = "=0.35.3"
